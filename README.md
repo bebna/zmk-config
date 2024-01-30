@@ -6,3 +6,4 @@ Online Editor: [ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
 
 ISO Keys overview: [Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_9995#Common_secondary_group)
 
+Keycaps: [Blogpost](https://flatfootfox.com/design-your-own-low-profile-keycaps-with-fk-custom/) [Link to Shop](https://fkcaps.com/custom/)
